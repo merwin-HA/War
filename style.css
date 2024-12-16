@@ -1,0 +1,89 @@
+body{
+    margin: 0 auto;
+}
+nav{
+    background-color: #0081ff;       
+    overflow: auto;           
+}
+nav ul{
+    font-size: 40px;
+    text-decoration: none;
+    margin: 0 0 0 10px;
+    list-style: none;         
+}
+nav li{  
+    float: left;
+    padding: 30px 15px 20px 15px;
+}
+nav a{
+    padding: 40px 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.war2{
+    padding: 0 0 0 100px;
+    font-size: 50px;
+}
+.war1{
+    padding: 0 0 0 100px;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.pic{
+    height: 400px;
+    width: 300px;
+    margin: 20px 0 0 100px;
+    border-radius: 20px;
+    position: absolute;
+}
+.about{
+    position: absolute;
+    height: 450px;
+    width: 350px;
+    margin: 30px 0 0 50px;
+    border-radius: 20%;
+}
+.self{
+    font-size: 40px;
+    margin: 80px 0 0 450px;
+}
+.fb{
+    position: absolute;
+    margin: 40px 0 0 60px;
+}
+.face{
+    margin: 60px 0 0 250px;
+    font-size: 40px;
+}
+.phone{
+    position: absolute;
+    margin: 60px 0 0 100px;
+}
+.num{
+    margin:90px 0 0 250px;
+    font-size: 40px;
+}
+.hob{
+    width: 200px;
+    height: 200px;
+    margin: 20px 0 0 100px;
+    border-radius: 20%;
+}
+.hab{
+    font-size: 30px;
+    margin: 20px 0 0 100px;
+}
+footer{
+    font-size: 20px;
+    text-align: center;
+    background-color: #b5aaff;
+    padding: 30px 0 30px 0; 
+}
+.manok{
+    font-size: 40px;
+    padding-top: 400px;
+    padding-left: 150px;
+    position: absolute;
+    color: black;
+}
